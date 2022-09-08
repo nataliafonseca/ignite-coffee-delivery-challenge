@@ -10,9 +10,8 @@
     "lint": "eslint src --ext .ts,.tsx --fix"
   },
   "dependencies": {
-    "@fontsource/baloo-2": "^4.5.9",
-    "@fontsource/roboto": "^4.5.8",
     "@types/styled-components": "^5.1.26",
+    "phosphor-react": "^1.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.3.0",

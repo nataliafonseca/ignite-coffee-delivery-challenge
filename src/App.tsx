@@ -1,6 +1,3 @@
-import "@fontsource/roboto";
-import "@fontsource/baloo-2";
-
 import { BrowserRouter } from "react-router-dom";
 import { ThemeProvider } from "styled-components";
 
